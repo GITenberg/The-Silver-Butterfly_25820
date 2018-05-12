@@ -1,0 +1,39 @@
+_repo: The-Silver-Butterfly_25820
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Christy, Howard Chandler
+    birthdate: 1873
+    deathdate: 1952
+    gutenberg_agent_id: '4540'
+    url: http://www.gutenberg.org/2009/agents/4540
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Chandler_Christy
+covers:
+- cover_type: archival
+  image_path: 25820-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Woodrow, Wilson, Mrs.
+    aliases:
+    - Woodrow, Nancy Mann Waddel
+    - Woodrow, Mrs. Wilson
+    deathdate: 1935
+    gutenberg_agent_id: '38916'
+    url: http://www.gutenberg.org/2009/agents/38916
+    wikipedia: https://en.wikipedia.org/wiki/Nancy_Mann_Waddel_Woodrow
+description: ''
+gutenberg_issued: '2008-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25820'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Social life and customs -- Fiction'
+- !lcsh 'Silver mines and mining -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Mystery fiction'
+title: The Silver Butterfly
+url: http://www.gutenberg.org/ebooks/25820
